@@ -8,7 +8,7 @@
 
 .u-section-1 .u-group-1 {
   width: 889px;
-  min-height: 667px;
+  min-height: 899px;
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   --animation-custom_in-translate_x: 0px;
@@ -30,13 +30,13 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 33px 18px 0 264px;
+  margin: 20px 0 0 282px;
 }
 
 .u-section-1 .u-shape-1 {
   width: 80px;
   height: 80px;
-  margin: -341px auto 261px 0;
+  margin: -328px auto 248px 0;
 }
 
 .u-section-1 .u-image-1 {
@@ -106,7 +106,6 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 0;
     margin-left: 113px;
   }
 

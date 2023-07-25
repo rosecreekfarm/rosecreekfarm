@@ -409,7 +409,7 @@
 }
 
 .u-section-4 .u-layout-cell-9 {
-  min-height: 246px;
+  min-height: 253px;
   background-image: none;
 }
 
@@ -424,7 +424,7 @@
 }
 
 .u-section-4 .u-text-7 {
-  margin: 20px auto 0 0;
+  margin: 20px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -465,7 +465,7 @@
   }
 
   .u-section-4 .u-layout-cell-9 {
-    min-height: 203px;
+    min-height: 209px;
   }
 }
 
